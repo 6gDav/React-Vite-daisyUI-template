@@ -7,13 +7,14 @@ This template provides a pre-made setup for the combination of the mentioned tec
 It is the usual method, as with every Git repository.
 
 1) Press on the green icon.
-2) Copy the desired URL
+2) Copy the desired URL.
 3) Open a file.
-4) Open a CMD
+4) Open a CMD.
 5) Paste the copied URL.
 
 # Sources
-Vite: https://vite.dev 
-React: https://react.dev
-Tailwind CSS: https://tailwindcss.com
-daisyUI: https://daisyui.com
+- [Vite](https://vite.dev)  
+- [React](https://react.dev)  
+- [Tailwind CSS](https://tailwindcss.com)  
+- [daisyUI](https://daisyui.com)
+
